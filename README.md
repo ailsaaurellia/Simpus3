@@ -1,6 +1,6 @@
 # Si MPus
 
-### ** Tampilan**
+### Tampilan
 
 * Cetak
 
